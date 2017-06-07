@@ -1,0 +1,23 @@
+{
+  "name": "telegram-piccione-bot",
+  "version": "1.0.0",
+  "description": "telegram-piccione-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cannicombustiva/telegram-piccione-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cannicombustiva/telegram-piccione-bot/issues"
+  },
+  "homepage": "https://github.com/cannicombustiva/telegram-piccione-bot#readme",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  }
+}
